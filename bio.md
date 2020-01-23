@@ -1,4 +1,4 @@
-My name is Amory Gengler
+My name is Amory Gengler.
 
 I'm majoring in Programming at Seattle Central, working on my AAS degree.
 
